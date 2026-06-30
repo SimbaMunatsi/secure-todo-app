@@ -87,6 +87,4 @@ Open the app: http://localhost:5173
 2. Follow the repo patterns: business logic in `services/`, DB access in `crud/`, routers in `api/`.
 3. Run tests and linters before submitting a PR.
 
-## Next steps
 
-- I can run Alembic locally to generate/apply migrations, create a commit for this README, or add unit tests. Which should I do next?
