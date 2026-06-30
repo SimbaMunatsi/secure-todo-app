@@ -1,0 +1,19 @@
+# Environments & Dependencies
+backend/venv/
+backend/__pycache__/
+frontend/node_modules/
+frontend/dist/
+
+# Secrets & Configs
+*.env
+.env
+.env.*
+
+# Databases
+*.sqlite3
+*.db
+backend/sql_app.db
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
